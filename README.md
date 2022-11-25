@@ -1,6 +1,6 @@
 # SUNIL_-KOC29-_CipherSchools
 PYTHON PROJECT 1 METHOD
-#To print multiplication table using OOPs
+# To print multiplication table using OOPs
 
 class MultiplyTable():
     description="Generates Multiplication table"
@@ -22,7 +22,7 @@ MultiplyTable.table(val)
 ********************************************************************************************************************************************************************
 
 PYTHON PROJECT 2 METHOD
-# using while loop
+# Using while loop
 i = int(input(" Please Enter any Positive Integer less than n : "))
 
 
